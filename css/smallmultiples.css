@@ -1,5 +1,5 @@
 body {
-  font-family: 'Raleway';
+  font-family: 'Roboto';
 }
 .container {
   padding: 25px;
@@ -8,8 +8,8 @@ body {
   padding-left: 25px;
   padding-right: 25px;
   padding-bottom: 25px;
-  background: #f3f3f3;
-  border: thin black solid;
+  background: #ffffff;
+  /* border: thin white solid; */
 }
 .mapButtons {
   vertical-align: middle;
@@ -35,7 +35,7 @@ body {
   z-index: 10;
 }
 .tooltipD3 p {
-  background-color: #cccccc;
+  background-color: #ffffff;
   border: thin solid black;
   padding: 2px;
   margin: 2px;
